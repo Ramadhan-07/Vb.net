@@ -1,0 +1,14 @@
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\bin\Debug\Tubes.exe.config
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\bin\Debug\Tubes.exe
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\bin\Debug\Tubes.pdb
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\bin\Debug\Tubes.xml
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.frmDVD.resources
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.frmMember.resources
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.frmMenu.resources
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.Resources.resources
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.frmPenyewaan.resources
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.vbproj.GenerateResource.Cache
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.exe
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.xml
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.pdb
+E:\Kuliah\Semester 2\Pemrograman Visual\Visual Basic Project\Tubes\Tubes\obj\Debug\Tubes.vbprojResolveAssemblyReference.cache
